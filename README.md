@@ -1,0 +1,2 @@
+# 03_EJECUCION_24_Modelo_entidad_relacion
+Repositorio sobre Modelo entidad relación
